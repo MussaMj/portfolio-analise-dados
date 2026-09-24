@@ -33,5 +33,5 @@ Repositório: https://github.com/MussaMj/Plataformas_digitais-
 ---
 
 ## Sobre mim
-Estagiário em Redes de Computadores, com interesse em diversas áreas da Tecnologia da Informação, com destaque para **Análise de Dados** e desenvolvimento de projectos práticos orientados a dados.
+Licenciado em Sistemas de Informação e Administração de Redes, com projectos em Python e dados.
 
